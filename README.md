@@ -4,8 +4,8 @@
 ### Installation
 首先需要安装Node.js -> https://nodejs.org/en/download/
 ```bash
-git clone git@github.com:ovack/collectpic.git
-cd collectpic
+git clone git@github.com:ovack/concat.git
+cd concat
 npm install
 ```
 

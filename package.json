@@ -1,8 +1,8 @@
 {
-  "name": "collectpic",
+  "name": "concat",
   "version": "1.0.0",
-  "description": "\"扫描并归档icloud照片文件\"",
-  "keywords": "icloud",
+  "description": "concat files",
+  "keywords": "concat",
   "main": "index.coffee",
   "scripts": {
     "start": "coffee index.coffee"
