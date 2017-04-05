@@ -1,0 +1,17 @@
+{
+  "name": "collectpic",
+  "version": "1.0.0",
+  "description": "\"扫描并归档icloud照片文件\"",
+  "keywords": "icloud",
+  "main": "index.coffee",
+  "scripts": {
+    "start": "coffee index.coffee"
+  },
+  "author": "ovack",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "fs-extra": "^2.1.2",
+    "lodash": "^4.17.4"
+  }
+}
